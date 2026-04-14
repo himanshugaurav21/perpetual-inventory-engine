@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Environment / Secrets
+.env
+config.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Databricks
+.databricks/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.parquet
+/output/
+/tmp/
+perpetual-inventory-app/frontend/dist/
+
+# UV lock files
+uv.lock

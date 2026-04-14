@@ -1,0 +1,5 @@
+[allowlist]
+  description = "Allowlist for false positives in compiled frontend bundles"
+  paths = [
+    '''perpetual-inventory-app/frontend/dist/.*\.js$''',
+  ]
