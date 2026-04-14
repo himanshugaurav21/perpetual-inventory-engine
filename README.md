@@ -13,6 +13,9 @@ Retailers operate with approximately **59% PI accuracy**. Every item in a store 
 
 Traditional approaches rely on **periodic physical counts** (cycle counts): teams walk the store with scanners, counting every item. This is expensive ($0.03-0.10 per unit counted), infrequent (most SKUs are counted once or twice a year), and purely reactive -- by the time you count, the damage is done.
 
+https://github.com/user-attachments/assets/5a6471cd-6e4e-4336-a770-e88e0232e0c5
+
+
 ## What This Engine Does
 
 This engine replaces reactive counting with **continuous, AI-driven monitoring**. Rather than waiting for a human to discover the problem, the system watches every SKU in every store across five independent anomaly signals, computes a composite risk score, and surfaces the highest-risk items with AI-generated explanations.
